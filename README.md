@@ -1,16 +1,22 @@
-## Hi there 👋
+hey, i'm steven 👋
 
-<!--
-**spaceynyc/spaceynyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i build things with LLMs and try to make AI actually useful.
 
-Here are some ideas to get you started:
+## what i'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 **Socionics Research Lab** — multi-agent AI system for personality typing. three specialist agents analyze from different angles, then an adversarial validator checks their work. built the prototype in python/streamlit, rebuilt it properly in next.js.
+
+## what i'm into
+
+- multi-agent architectures and agentic workflows
+- - making complex systems understandable
+  - - personality typology (socionics specifically - 7+ years deep)
+    - - figuring out what AI is actually good for beyond demos
+     
+      - ## stack
+     
+      - python javascript react next.js langchain streamlit
+     
+      - ---
+
+      currently looking for roles where i can build things and solve problems — solutions engineering, dev rel, or similar. if you're working on something interesting, let's talk.
